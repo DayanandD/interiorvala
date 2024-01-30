@@ -1,0 +1,744 @@
+Uri: https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700
+File Name: F:\web develpement\interiorvala\html.themexriver.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans:400,700
+File Name: F:\web develpement\interiorvala\html.themexriver.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://html.themexriver.com/arch-pro/about.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\about.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/css/bootstrap.min.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.themexriver.com/arch-pro/assets/bootstrap/js/bootstrap.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/css/animate.min.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/css/font-awesome.min.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/css/offcanvas-menu.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\css\offcanvas-menu.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/css/style.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\css\style.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/fonts/fontawesome-webfont.eot?
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themexriver.com/arch-pro/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/arch-pro/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://html.themexriver.com/arch-pro/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/awards-logo.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\awards-logo.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/blog/n1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\blog\n1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/blog/n2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\blog\n2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/blog/n3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\blog\n3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/blog/n4.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\blog\n4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/blog/s2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\blog\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/blue-bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\blue-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/border.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\border.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/building.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\building.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/client/img-1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\client\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/client/img-2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\client\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/client/img-3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\client\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/client/img-4.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\client\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/client/img-5.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\client\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/cross.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\cross.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/favicon.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/featured-slider-2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\featured-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/featured-slider-3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\featured-slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/featured-slider.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\featured-slider.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/find/1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\find\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/find/2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\find\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/find/3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\find\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/footer-logo.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/4.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/5.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/6.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/7.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/gallery/8.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/hello.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\hello.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/left-angel.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\left-angel.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/left-arrow.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\left-arrow.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/logo-3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/logo-bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\logo-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/logo-m.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\logo-m.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/logo.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/long-border.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\long-border.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/man.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\man.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/man.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\man.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/map-marker.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\map-marker.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/menu.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\menu.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/news-bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\news-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/news/1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\news\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/news/2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\news\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/news/3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\news\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/next.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\next.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/prev.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\prev.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/pro.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\pro.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/review-bg.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\review-bg.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/right-angel.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\right-angel.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/right-arrow.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\right-arrow.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/rular.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\rular.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/shap.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\shap.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/side/1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\side\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/side/2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\side\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/side/3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\side\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/single/s-slider-1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\single\s-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/single/s-slider-2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\single\s-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/icon-1.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\icon-1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/icon-2.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\icon-2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/slider-1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/slider-2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/slider-3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/slider-4.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\slider-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/slider/slider-border.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\slider\slider-border.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/sub/bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\sub\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/sub/contact-bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\sub\contact-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/sub/gallery-bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\sub\gallery-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/sub/news-bg.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\sub\news-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/team/1.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/team/2.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/team/3.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/team/4.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/team/5.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/images/team/6.jpg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\images\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/instagram.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\instagram.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/jquery.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/lightbox.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\lightbox.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/menu.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\menu.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/portfolio.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\portfolio.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/script.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/ScrollMagic.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\ScrollMagic.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/js/wow.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\js\wow.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/owl-carrosel/owl.carousel.min.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\owl-carrosel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/owl-carrosel/owl.carousel.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\owl-carrosel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/owl-carrosel/owl.theme.default.min.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\owl-carrosel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/jquery.themepunch.revolution.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/jquery.themepunch.tools.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.actions.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.carousel.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.kenburn.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.layeranimation.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.migration.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.navigation.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.parallax.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.slideanims.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.extension.video.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rev-slider/revolution.setup.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rev-slider\revolution.setup.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/arrowleft.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\arrowleft.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/arrowright.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\arrowright.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/arrow_left.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\arrow_left.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/arrow_left2.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\arrow_left2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/arrow_right.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\arrow_right.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/arrow_right2.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\arrow_right2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/boxed_bgtile.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\boxed_bgtile.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/bullet.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\bullet.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/bullets.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\bullets.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/bullets2.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\bullets2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/bullet_boxed.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\bullet_boxed.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/coloredbg.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/gridtile.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/gridtile_3x3.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/gridtile_3x3_white.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/gridtile_white.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/large_left.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\large_left.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/large_right.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\large_right.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/loader.gif
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/navigdots.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\navigdots.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/navigdots_bgtile.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\navigdots_bgtile.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/shadow1.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\shadow1.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/shadow2.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\shadow2.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/shadow3.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\shadow3.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/small_left.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\small_left.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/small_left_boxed.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\small_left_boxed.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/small_right.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\small_right.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/small_right_boxed.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\small_right_boxed.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/assets/timer.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\assets\timer.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/css/settings.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\css\settings.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/font/revicons.eot?5510888
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\font\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/font/revicons.svg?5510888
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\font\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/font/revicons.ttf?5510888
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\font\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/font/revicons.woff?5510888
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\font\revicons.woff
+Content Type: font/woff
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/images/gradient/g30.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\images\gradient\g30.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/images/gradient/g40.png
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\images\gradient\g40.png
+Content Type: image/png
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/js/jquery.themepunch.revolution.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/rs-plugin/js/jquery.themepunch.tools.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\rs-plugin\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/ajax-loader.gif
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/fonts/slick.eot
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/fonts/slick.eot?
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/fonts/slick.svg
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/fonts/slick.ttf
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/fonts/slick.woff
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/slick-theme.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\slick-theme.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/slick.css
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\slick.css
+Content Type: text/css
+
+Uri: https://html.themexriver.com/arch-pro/assets/slick-slider/slick.min.js
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\slick-slider\slick.min.js
+Content Type: application/javascript
+
+Uri: https://html.themexriver.com/arch-pro/assets/video/video.mp4
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\assets\video\video.mp4
+Content Type: video/mp4
+
+Uri: https://html.themexriver.com/arch-pro/contact.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\contact.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/index-three.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\index-three.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/index-two.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\index-two.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/index.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\index.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/news-single.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\news-single.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/news.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\news.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/project-detail.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\project-detail.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/project-three.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\project-three.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/project-two.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\project-two.html
+Content Type: text/html
+
+Uri: https://html.themexriver.com/arch-pro/project.html
+File Name: F:\web develpement\interiorvala\html.themexriver.com\arch-pro\project.html
+Content Type: text/html
+

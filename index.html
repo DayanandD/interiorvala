@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Interior Vala</title>
+    <!-- fav icon -->
+    <!-- <link
+      href="assets/images/favicon.png"
+      rel="shortcut icon"
+      type="image/png"
+    /> -->
+
+    <!-- Bootstrap -->
+    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- animated-css -->
+    <link href="assets/css/animate.min.css" rel="stylesheet" type="text/css" />
+    <!-- font-awesome-css -->
+    <link
+      href="assets/css/font-awesome.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- owl-carrosel-css -->
+    <link
+      href="assets/owl-carrosel/owl.carousel.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="assets/owl-carrosel/owl.theme.default.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- Slick-Slider-css -->
+    <link
+      href="assets/slick-slider/slick.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="assets/slick-slider/slick-theme.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- Revulation Slider CSS -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/rs-plugin/css/settings.css"
+      media="screen"
+    />
+    <!-- offcanvas-menu-css -->
+    <link
+      href="assets/css/offcanvas-menu.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- style-css -->
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body class="homePageOne">
+    <!-- start preloader -->
+    <div id="preloader">
+      <div class="preloader-inner">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+    <!-- end preloader -->
+
+    <header class="header-section">
+      <nav class="navbar navbar-inverse hidden-sm hidden-xs">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="index.html"
+              ><img src="logo.png" alt="image"
+            /></a>
+          </div>
+
+          <div class="collapse navbar-collapse navbar-right">
+            <ul class="nav navbar-nav">
+              <li class="active dropdown">
+                <a href="#"
+                  >Home <i class="fa fa-angle-down" aria-hidden="true"></i
+                ></a>
+                <ul class="dropdown-menu">
+                  <li class="active"><a href="index.html">Home One</a></li>
+                  <li><a href="index-two.html">Home Two</a></li>
+                  <li><a href="index-three.html">Home Three</a></li>
+                </ul>
+              </li>
+
+              <li><a href="about.html">About</a></li>
+
+              <li class="dropdown">
+                <a href="#"
+                  >Project <i class="fa fa-angle-down" aria-hidden="true"></i
+                ></a>
+                <ul class="dropdown-menu">
+                  <li><a href="project.html">Project-2-col</a></li>
+                  <li><a href="project-two.html">Project-3-col</a></li>
+                  <li><a href="project-three.html">Project-4-col</a></li>
+                  <li><a href="project-detail.html">Project-Detail</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown">
+                <a href="#"
+                  >News <i class="fa fa-angle-down" aria-hidden="true"></i
+                ></a>
+                <ul class="dropdown-menu">
+                  <li><a href="news.html">News</a></li>
+                  <li><a href="news-single.html">News-Single</a></li>
+                </ul>
+              </li>
+
+              <li><a href="contact.html">Contact</a></li>
+
+              <li>
+                <div class="search-view">
+                  <span class="open-bar"
+                    ><i class="fa fa-search" aria-hidden="true"></i
+                  ></span>
+
+                  <div id="search-bar">
+                    <span class="close-bar pull-right"
+                      ><img src="assets/images/cross.png" alt=""
+                    /></span>
+
+                    <form class="form-bar">
+                      <div class="form-group">
+                        <input
+                          type="text"
+                          class="form-control"
+                          placeholder="Type to search"
+                        />
+                      </div>
+                    </form>
+                  </div>
+                  <!-- search-bar -->
+                </div>
+                <!-- search-view -->
+              </li>
+
+              <li>
+                <div class="mail">
+                  <a href="#"
+                    ><i class="fa fa-envelope-o" aria-hidden="true"></i
+                  ></a>
+
+                  <span class="effect"></span>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!--/.nav-collapse -->
+        </div>
+        <!-- container -->
+      </nav>
+
+      <div class="navbar-header inline-block visible-sm visible-xs">
+        <a class="navbar-brand" href="index.html"
+          ><img src="assets/images/logo-m.png" alt="image"
+        /></a>
+      </div>
+    </header>
+    <!-- header-section -->
+
+    <!-- slider-section start-->
+    <section class="slider-section">
+      <h2 class="hidden">title</h2>
+
+      <div class="tp-banner-container">
+        <div class="tp-banner">
+          <ul>
+            <li
+              data-transition="fade"
+              data-slotamount="1"
+              data-masterspeed="3000"
+              data-thumb="assets/images/slider/slider-1.jpg"
+              data-delay="10000"
+              data-saveperformance="off"
+              data-title="Our Workplace"
+            >
+              <!-- MAIN IMAGE -->
+              <img
+                src="assets/images/slider/slider-1.jpg"
+                alt="kenburns1"
+                data-bgposition="left center"
+                data-kenburns="on"
+                data-duration="15000"
+                data-ease="Linear.easeNone"
+                data-bgfit="100"
+                data-bgfitend="130"
+                data-bgpositionend="right center"
+              />
+
+              <!-- LAYER NR. 1 -->
+              <div
+                class="tp-caption lfb rs-parallaxlevel-9"
+                data-x="right"
+                data-hoffset="-40"
+                data-y="bottom"
+                data-voffset="-50"
+                data-speed="1500"
+                data-start="900"
+                data-easing="Power4.easeInOut"
+                data-elementdelay="0.1"
+                data-endelementdelay="0.1"
+                data-endspeed="800"
+                style="z-index: 2"
+              >
+                <img src="assets/images/blue-bg.jpg" alt="" />
+              </div>
+            </li>
+
+            <li
+              data-transition="fade"
+              data-slotamount="1"
+              data-masterspeed="3000"
+              data-thumb="assets/images/slider/slider-2.jpg"
+              data-delay="10000"
+              data-saveperformance="off"
+              data-title="Our Workplace"
+            >
+              <!-- MAIN IMAGE -->
+              <img
+                src="assets/images/slider/slider-2.jpg"
+                alt="kenburns1"
+                data-bgposition="right center"
+                data-kenburns="on"
+                data-duration="15000"
+                data-ease="Linear.easeNone"
+                data-bgfit="100"
+                data-bgfitend="130"
+                data-bgpositionend="left center"
+              />
+
+              <!-- LAYER NR. 1 -->
+              <div
+                class="tp-caption lfb rs-parallaxlevel-9"
+                data-x="right"
+                data-hoffset="-40"
+                data-y="bottom"
+                data-voffset="-50"
+                data-speed="1500"
+                data-start="900"
+                data-easing="Power4.easeInOut"
+                data-elementdelay="0.1"
+                data-endelementdelay="0.1"
+                data-endspeed="800"
+                style="z-index: 2"
+              >
+                <img src="assets/images/blue-bg.jpg" alt="" />
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <!-- slider-section end-->
+
+    <section class="hello-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="content-section">
+              <h4>Hello</h4>
+
+              <p>
+                At [Your Interior Design Studio], we believe that every space
+                has the potential to be extraordinary. Step into a world where
+                creativity meets functionality, and design seamlessly blends
+                with comfort. Our passion is to transform your spaces into
+                captivating, personalized environments that reflect your style
+                and enhance your lifestyle.
+              </p>
+
+              <h5>Innovative Design Solutions:</h5>
+              <p>
+                Discover a fresh perspective with our team of talented designers
+                who bring creativity and innovation to every project. We take
+                pride in our ability to turn your vision into reality, ensuring
+                a design that not only looks stunning but also suits your
+                practical needs.
+              </p>
+            </div>
+            <!-- content-section -->
+          </div>
+
+          <div class="col-sm-6 hidden-xs wow fadeInDown">
+            <div class="parallax-section">
+              <div
+                class="section-caption text-right"
+                data-bg-image="assets/images/hello.png"
+                alt
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- hello-section -->
+
+    <section class="project-section">
+      <div class="container">
+        <div class="section-title text-left">
+          <h2 class="wow fadeInDown">Featured Projects</h2>
+        </div>
+        <!-- section-title -->
+      </div>
+
+      <div id="lightBox" class="project-carousel text-center">
+        <div class="caption">
+          <img src="assets/images/featured-slider-3.jpg" alt="" />
+
+          <div class="location">
+            <h5>Pune Maharashtra India</h5>
+            <p>1017 Post Rd, Wells, ME 04090</p>
+          </div>
+
+          <div class="hover-icon">
+            <div class="icon-one">
+              <a href="assets/images/featured-slider-3.jpg"
+                ><i class="fa fa-search-plus" aria-hidden="true"></i
+              ></a>
+            </div>
+
+            <div class="icon-two">
+              <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+            </div>
+          </div>
+          <!-- hover-icon -->
+        </div>
+        <!-- caption -->
+
+        <div class="caption">
+          <img src="assets/images/featured-slider-2.jpg" alt="" />
+
+          <div class="location">
+            <h5>Pune Maharashtra India</h5>
+            <p>1017 Post Rd, Wells, ME 04090</p>
+          </div>
+
+          <div class="hover-icon">
+            <div class="icon-one">
+              <a href="assets/images/featured-slider-2.jpg"
+                ><i class="fa fa-search-plus" aria-hidden="true"></i
+              ></a>
+            </div>
+
+            <div class="icon-two">
+              <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+            </div>
+          </div>
+          <!-- hover-icon -->
+        </div>
+        <!-- caption -->
+
+        <div class="caption">
+          <img src="assets/images/featured-slider.jpg" alt="" />
+
+          <div class="location">
+            <h5>Pune Maharashtra India</h5>
+            <p>1017 Post Rd, Wells, ME 04090</p>
+          </div>
+
+          <div class="hover-icon">
+            <div class="icon-one">
+              <a href="assets/images/featured-slider.jpg"
+                ><i class="fa fa-search-plus" aria-hidden="true"></i
+              ></a>
+            </div>
+
+            <div class="icon-two">
+              <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+            </div>
+          </div>
+          <!-- hover-icon -->
+        </div>
+        <!-- caption -->
+      </div>
+      <!-- project-carousel -->
+    </section>
+    <!-- project-section -->
+
+    <section class="finding-section section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="find-tab">
+              <div class="row">
+                <div class="col-md-9 col-md-offset-1 col-sm-10">
+                  <div class="tab-content">
+                    <div
+                      role="tabpanel"
+                      class="tab-pane fade in active"
+                      id="one"
+                    >
+                      <div class="caption text-right wow fadeInLeft">
+                        <img src="assets/images/find/3.jpg" alt="" />
+                      </div>
+
+                      <div class="content">
+                        <h3 class="wow fadeInRight">Services We Offer</h3>
+
+                        <p>
+                          <b>Residential Design:</b>
+                          Elevate the comfort and style of your home with our
+                          residential design services. From cozy living rooms to
+                          luxurious bedrooms, we bring a touch of sophistication
+                          to every corner.
+                          <br />
+                        </p>
+
+                        <div class="button">
+                          <a href="#">
+                            <span class="btn btn-default pull-right">
+                              <span class="default-text">Learn More</span>
+
+                              <span class="hover-text">Learn More</span>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div role="tabpanel" class="tab-pane fade" id="two">
+                      <div class="caption text-right">
+                        <img src="assets/images/find/2.jpg" alt="" />
+                      </div>
+
+                      <div class="content">
+                        <h3>Transforming Spaces, Elevating Lives.</h3>
+
+                        <p>
+                          <b> Commercial Spaces:</b>
+                          Make a lasting impression on clients and employees
+                          alike with our innovative commercial design solutions.
+                          We understand the importance of creating an
+                          environment that reflects your brand identity.
+                        </p>
+
+                        <div class="button">
+                          <a href="#">
+                            <span class="btn btn-default pull-right">
+                              <span class="default-text">Learn More</span>
+
+                              <span class="hover-text">Learn More</span>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div role="tabpanel" class="tab-pane fade" id="three">
+                      <div class="caption text-right">
+                        <img src="assets/images/find/1.jpg" alt="" />
+                      </div>
+
+                      <div class="content">
+                        <h3>Crafting Spaces with Impeccable Accuracy.</h3>
+
+                        <p>
+                          Custom Furniture Design: Enhance your space with
+                          unique, bespoke furniture tailored to your taste and
+                          requirements. Our craftsmen bring artistry and
+                          functionality to every piece.
+                        </p>
+
+                        <div class="button">
+                          <a href="#">
+                            <span class="btn btn-default pull-right">
+                              <span class="default-text">Learn More</span>
+
+                              <span class="hover-text">Learn More</span>
+                            </span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-2 col-md-offset-0 col-sm-1 col-sm-offset-1">
+                  <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="active">
+                      <a
+                        href="#one"
+                        aria-controls="one"
+                        role="tab"
+                        data-toggle="tab"
+                        >01</a
+                      >
+                    </li>
+
+                    <li role="presentation">
+                      <a
+                        href="#two"
+                        aria-controls="two"
+                        role="tab"
+                        data-toggle="tab"
+                        >02</a
+                      >
+                    </li>
+
+                    <li role="presentation">
+                      <a
+                        href="#three"
+                        aria-controls="three"
+                        role="tab"
+                        data-toggle="tab"
+                        >03</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- find-tab -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- finding-section -->
+
+    <section class="review-section section-padding">
+      <div class="container">
+        <div class="section-title text-center">
+          <h2 class="wow fadeInDown">Get In Touch</h2>
+        </div>
+        <!-- section-title -->
+
+        <div class="row">
+          <div class="col-md-6 col-md-offset-0 col-sm-10 col-sm-offset-1">
+            <div class="review-wrapper">
+              <span class="caption pull-left wow zoomIn"
+                ><img src="logo.png" alt=""
+              /></span>
+
+              <div class="contact-wrapper">
+                <h5>Yogesh Sonawane</h5>
+                <span class="position">CEO</span>
+                <div class="row">
+                  <ul>
+                    <li>
+                      <i class="fa fa-mobile-phone"
+                        ><a href="callto:9876543210">+91 987654321</a></i
+                      >
+                    </li>
+                    <li>
+                      <i class="fa fa-instagram"
+                        ><a href="https://www.instagram.com/"> Instagram</a></i
+                      >
+                    </li>
+                    <li>
+                      <i class="fa fa-facebook"
+                        ><a href="https://www.facebook.com/"> Facebook</a></i
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- contact-wrapper -->
+            </div>
+            <!-- review-wrapper -->
+          </div>
+
+          <div class="col-md-6 col-md-offset-0 col-sm-10 col-sm-offset-1">
+            <div class="review-wrapper">
+              <span class="caption pull-left wow zoomIn"
+                ><img src="logo.png" alt=""
+              /></span>
+
+              <div class="contact-wrapper">
+                <h5>Dayanand Dongare</h5>
+                <span class="position">Designer</span>
+                <div class="row">
+                  <ul>
+                    <li>
+                      <i class="fa fa-mobile-phone"
+                        ><a href="callto:9876543210">+91 987654321</a></i
+                      >
+                    </li>
+                    <li>
+                      <i class="fa fa-instagram"
+                        ><a href="https://www.instagram.com/"> Instagram</a></i
+                      >
+                    </li>
+                    <li>
+                      <i class="fa fa-facebook"
+                        ><a href="https://www.facebook.com/"> Facebook</a></i
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- contact-wrapper -->
+            </div>
+            <!-- review-wrapper -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1">
+            <div class="review-wrapper last-wrapper">
+              <span class="caption pull-left wow zoomIn"
+                ><img src="logo.png" alt=""
+              /></span>
+
+              <div class="contact-wrapper">
+                <h5>Nitin Pati</h5>
+                <span class="position">BDA</span>
+                <div class="row">
+                  <ul>
+                    <li>
+                      <i class="fa fa-mobile-phone"
+                        ><a href="callto:9876543210">+91 987654321</a></i
+                      >
+                    </li>
+                    <li>
+                      <i class="fa fa-instagram"
+                        ><a href="https://www.instagram.com/">Instagram</a></i
+                      >
+                    </li>
+                    <li>
+                      <i class="fa fa-facebook"
+                        ><a href="https://www.instagram.com/">Facebook</a></i
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- contact-wrapper -->
+            </div>
+            <!-- review-wrapper -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- review-section -->
+
+    <!-- news-section -->
+
+    <!-- client-section -->
+
+    <section class="contact-section">
+      <div class="container-fluid no-padding">
+        <div class="row">
+          <div class="col-md-9 right-padding">
+            <div class="map-section">
+              <div id="googleMap"></div>
+            </div>
+            <!-- map-section -->
+
+            <div class="footer-section">
+              <div class="footer-wrapper">
+                <span class="footer-logo"
+                  ><img src="assets/images/footer-logo.png" alt="image"
+                /></span>
+
+                <ul class="footer-menu pull-right">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">About us</a></li>
+                  <li><a href="#">Projects</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Clients</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+                <!-- footer-menu -->
+              </div>
+              <!-- footer-wrapper -->
+            </div>
+            <!-- footer-section -->
+          </div>
+
+          <div class="col-md-3 left-padding hidden-sm hidden-xs">
+            <div class="contact-bar">
+              <img src="assets/images/building.jpg" alt="" />
+
+              <div class="wrapper-content">
+                <h4>Studio Architecture</h4>
+
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                  do eiusmod tempor incididunt ut labore.
+                </p>
+
+                <ul>
+                  <li>
+                    <i class="fa fa-map-marker" aria-hidden="true"></i>
+
+                    <div class="content">45 4nd Ave, Bearchg , UK</div>
+                  </li>
+
+                  <li>
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+
+                    <div class="content">(2845) 244653635</div>
+                  </li>
+
+                  <li>
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+
+                    <div class="content">demo@archive.com</div>
+                  </li>
+
+                  <li>
+                    <i class="fa fa-clock-o" aria-hidden="true"></i>
+
+                    <div class="content">Open 8.00 - 17.00</div>
+                  </li>
+                </ul>
+              </div>
+              <!-- wrapper-content -->
+            </div>
+            <!-- contact-bar -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- contact-section -->
+
+    <!-- Off-Canvas View Only -->
+    <span class="menu-toggle navbar visible-xs visible-sm"
+      ><i class="fa fa-bars" aria-hidden="true"></i
+    ></span>
+
+    <div id="offcanvas-menu" class="visible-xs visible-sm">
+      <span class="close-menu"
+        ><i class="fa fa-times" aria-hidden="true"></i
+      ></span>
+
+      <ul class="menu-wrapper">
+        <li>
+          <a class="active dropmenu" href="#"
+            >Home <i class="fa fa-angle-down" aria-hidden="true"></i
+          ></a>
+          <ul class="dropDown sub-menu">
+            <li><a class="active" href="index.html">Home One</a></li>
+            <li><a href="index-two.html">Home Two</a></li>
+            <li><a href="index-three.html">Home Three</a></li>
+          </ul>
+          <!-- end of dropdown -->
+        </li>
+        <!-- end of li -->
+
+        <li><a href="about.html">About</a></li>
+        <!-- end of li -->
+
+        <li>
+          <a class="dropmenu" href="#"
+            >Project <i class="fa fa-angle-down" aria-hidden="true"></i
+          ></a>
+          <ul class="dropDown sub-menu">
+            <li><a href="project.html">Project-2-col</a></li>
+            <li><a href="project.html">Project-3-col</a></li>
+            <li><a href="project.html">Project-4-col</a></li>
+            <li><a href="project.html">Project-detail</a></li>
+          </ul>
+          <!-- end of dropdown -->
+        </li>
+        <!-- end of li -->
+
+        <li>
+          <a class="dropmenu" href="#"
+            >News <i class="fa fa-angle-down" aria-hidden="true"></i
+          ></a>
+          <ul class="dropDown sub-menu">
+            <li><a href="news.html">News</a></li>
+            <li><a href="news-single.html">News Single</a></li>
+          </ul>
+          <!-- end of dropdown -->
+        </li>
+        <!-- end of li -->
+
+        <li><a href="contact.html">Contact</a></li>
+        <!-- end of li -->
+      </ul>
+      <!-- menu-wrapper -->
+    </div>
+    <!-- Off-Canvas View Only -->
+
+    <div id="toTop" class="hidden-xs">
+      <i class="fa fa-chevron-up"></i>
+    </div>
+    <!-- totop -->
+
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script src="assets/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="assets/js/ScrollMagic.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/slick-slider/slick.min.js"></script>
+    <script src="assets/owl-carrosel/owl.carousel.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js"
+    ></script>
+    <script src="assets/js/script.js"></script>
+  </body>
+</html>
